@@ -1,7 +1,7 @@
 {
     "menuItems": [
         {
-            "text": "Services",
+            "text": "Service",
             "groupImageUrl": "Menu-Banner-Services.png",
             "children": [
                 {

@@ -409,7 +409,7 @@
                     "navigateUrl": "https://www.ssw.com.au/ssw/Events/",
                     "navigateUrlOnMobileOnly": true,
                     "breakListBefore": true,
-                    "text": "1 day training",
+                    "text": "1-Day Training",
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx",
@@ -432,7 +432,7 @@
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Events/",
                     "navigateUrlOnMobileOnly": true,
-                    "text": "2 day training",
+                    "text": "2-Day Training",
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/Angular-Workshop.aspx",
@@ -651,12 +651,14 @@
                 {
                     "navigateUrl": "https://bettersoftwaresuggestions.com/",
                     "text": "SSW Better Software Suggestions",
-                    "breakListBefore": true
+                    "breakListBefore": true,
+                    "children": [
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/",
+                            "text": "Old SSW Better Software Suggestions"
+                        }
+                    ]
                 },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/",
-                    "text": "SSW Better Software Suggestions"
-                }
             ]
         },
         {

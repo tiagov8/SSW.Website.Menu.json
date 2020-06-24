@@ -662,7 +662,7 @@
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Company/AboutUs.aspx",
                     "text": "About Us",
-                    "cssClass": "feat-video"
+                    "cssClass": "featVideo"
                 },
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Company/Awards.aspx",
@@ -694,7 +694,7 @@
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Company/Clients",
                     "text": "Our Clients",
-                    "cssClass": "feat-video",
+                    "cssClass": "featVideo",
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Testimonials/default.aspx",
@@ -714,7 +714,7 @@
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Employment/Employment.aspx",
                     "text": "Employment Opportunities",
-                    "cssClass": "feat-video"
+                    "cssClass": "featVideo"
                 },
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Company/ContactUs.aspx",

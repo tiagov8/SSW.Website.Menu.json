@@ -611,11 +611,13 @@
             "children": [
                 {
                     "navigateUrl": "https://rules.ssw.com.au/Pages/default.aspx",
-                    "text": "New SSW Rules"
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Standards/Default.aspx",
                     "text": "SSW Rules"
+                    "children": [
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Standards/Default.aspx",
+                            "text": "Old SSW Rules"
+                        }
+                    ]
                 },
                 {
                     "text": "Popular Rules",

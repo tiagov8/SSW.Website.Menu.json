@@ -126,10 +126,6 @@
                             "text": "Kubernetes"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Office-365.aspx",
-                            "text": "Microsoft Office 365"
-                        },
-                        {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Document-Management-Workflow.aspx",
                             "text": "Document Management Workflow"
                         },
@@ -224,12 +220,14 @@
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Vault.aspx",
-                            "text": "Vault"
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Office-365.aspx",
+                            "text": "Microsoft Office 365",
+                            "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Network-Architecture.aspx",
-                            "text": "Network Architecture"
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Microsoft-Teams.aspx",
+                            "text": "Microsoft Teams with Voice Calling",
+                            "cssClass": "Popular"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Hyper-V.aspx",
@@ -238,6 +236,18 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Data-Protection-Manager.aspx",
                             "text": "Data Protection Manager"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Skype-for-Business.aspx",
+                            "text": "Skype for Business"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Vault.aspx",
+                            "text": "Vault"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Network-Architecture.aspx",
+                            "text": "Network Architecture"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/BackBlaze-and-CloudBerry-Backup.aspx",
@@ -250,14 +260,6 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Video-Conferencing.aspx",
                             "text": "Video Conferencing"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Microsoft-Teams.aspx",
-                            "text": "Microsoft Teams"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Skype-for-Business.aspx",
-                            "text": "Skype for Business"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Service-Desk.aspx",
